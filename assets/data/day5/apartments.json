@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "latitude": 20.9581,
+    "longitude": 107.0456,
+    "price": 80,
+    "title": "Mường Thanh Luxury Hotel - Hạ Long",
+    "numberOfStars": 5,
+    "rating": 9.0,
+    "image": "https://fantasea.vn/wp-content/uploads/2017/10/M%C6%B0%E1%BB%9Dng-Thanh-Luxury-%C4%90%C3%A0-N%E1%BA%B5ng-08-1290x860.jpg"
+  },
+  {
+    "id": 2,
+    "latitude": 21.0325,
+    "longitude": 107.1811,
+    "price": 95,
+    "title": "Mường Thanh Grand Hotel - Hạ Long",
+    "numberOfStars": 5,
+    "rating": 9.5,
+    "image": "https://fantasea.vn/wp-content/uploads/2017/10/M%C6%B0%E1%BB%9Dng-Thanh-Luxury-%C4%90%C3%A0-N%E1%BA%B5ng-08-1290x860.jpg"
+  },
+  {
+    "id": 3,
+    "latitude": 20.9599,
+    "longitude": 107.0656,
+    "price": 70,
+    "title": "Mường Thanh Holiday Hotel - Hạ Long",
+    "numberOfStars": 4,
+    "rating": 8.3,
+    "image": "https://fantasea.vn/wp-content/uploads/2017/10/M%C6%B0%E1%BB%9Dng-Thanh-Luxury-%C4%90%C3%A0-N%E1%BA%B5ng-08-1290x860.jpg"
+
+  },
+  {
+    "id": 4,
+    "latitude": 20.9745,
+    "longitude": 107.0344,
+    "price": 55,
+    "title": "Mường Thanh Quảng Ninh Hotel",
+    "numberOfStars": 4,
+    "rating": 8.0,
+    "image": "https://fantasea.vn/wp-content/uploads/2017/10/M%C6%B0%E1%BB%9Dng-Thanh-Luxury-%C4%90%C3%A0-N%E1%BA%B5ng-08-1290x860.jpg"
+
+  },
+  {
+    "id": 5,
+    "latitude": 20.9587,
+    "longitude": 107.0419,
+    "price": 75,
+    "title": "Mường Thanh Luxury Suite - Hạ Long",
+    "numberOfStars": 5,
+    "rating": 9.2,
+    "image": "https://fantasea.vn/wp-content/uploads/2017/10/M%C6%B0%E1%BB%9Dng-Thanh-Luxury-%C4%90%C3%A0-N%E1%BA%B5ng-08-1290x860.jpg"
+
+  }
+]
